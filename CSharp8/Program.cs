@@ -123,12 +123,12 @@
 {
     Console.WriteLine("Task.58");
     int[,] matrix1 = FillMatrix(4, 4);
-    Console.WriteLine("Первый матрица:");
+    Console.WriteLine("Первая матрица: ");
     PrintMatrix(matrix1);
     Console.WriteLine();
 
     int[,] matrix2 = FillMatrix(4, 4);
-    Console.WriteLine("Второй матрица:");
+    Console.WriteLine("Вторая матрица: ");
     PrintMatrix(matrix2);
     Console.WriteLine();
 
